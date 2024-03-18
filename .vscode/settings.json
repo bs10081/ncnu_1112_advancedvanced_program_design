@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.conf copy": "jsonc",
+        "stdio.h": "c"
+    }
+}
